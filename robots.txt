@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://osazooda.github.io/EmS/sitemap_index.txt
+Sitemap: https://osazooda.github.io/tbh/sitemap_index.txt
+Sitemap: https://osazooda.github.io/uQk/sitemap_index.txt
+Sitemap: https://osazooda.github.io/uQm/sitemap_index.txt
